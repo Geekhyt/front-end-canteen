@@ -1,24 +1,4 @@
----
-title: "JavaScript This详解"
-date: 2019-08-25T16:22:42+08:00
-lastmod: 2019-08-25T16:22:42+08:00
-draft: false
-description: "JavaScript This详解"
-show_in_homepage: true
-show_description: false
-license: ''
-
-tags: ['JavaScript']
-categories: ['前端']
-
-featured_image: ''
-featured_image_preview: ''
-
-comment: true
-toc: true
-autoCollapseToc: true
-math: true
----
+# JavaScript This详解
 
 
 你皮任你皮，我当你瓜皮。
@@ -26,7 +6,6 @@ math: true
 
 众所周知，`this`在JavaScript中的指向一直很难让人理解，想要学好JavaScript，`this`也是我们必须要搞清楚的。其实，`this`并没有那么难，本文将力争带你治疗`this`的“皮”。
 
-<!--more-->
 
 首先，来科普三个问题！
 

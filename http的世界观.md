@@ -1,31 +1,12 @@
----
-title: "HTTP的世界观"
-date: 2019-11-10T16:22:42+08:00
-lastmod: 2019-08-25T16:22:42+08:00
-draft: false
-description: "HTTP的世界观"
-show_in_homepage: true
-show_description: false
-license: ''
 
-tags: ['HTTP']
-categories: ['前端']
+# HTTP的世界观
 
-featured_image: ''
-featured_image_preview: ''
-
-comment: true
-toc: true
-autoCollapseToc: true
-math: true
----
 
 前端圈技术的爆发式增长随之而来的开发人员学不动的疲惫感、焦虑感和不想跳出舒适圈的拖延懒惰。
 
 `jQuery`华丽谢幕，`React v16`已经普及、`Angular9`和`Vue3`即将发布。三大框架越来越贴近`WebComponents`标准。
 `TypeScript`遍地开花，小程序日益火爆，快应用/PWA紧随其后……
 
-<!--more-->
 
 站在浪潮之巅的我们最需要的是停下来思考，轰轰烈烈的技术本质是什么？
 

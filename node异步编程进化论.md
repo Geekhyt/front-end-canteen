@@ -1,29 +1,6 @@
----
-title: "Node.js异步编程进化论"
-date: 2019-11-20T16:22:42+08:00
-lastmod: 2019-08-25T16:22:42+08:00
-draft: false
-description: "Node.js异步编程进化论"
-show_in_homepage: true
-show_description: false
-license: ''
-
-tags: ['Node.js']
-categories: ['前端']
-
-featured_image: ''
-featured_image_preview: ''
-
-comment: true
-toc: true
-autoCollapseToc: true
-math: true
----
+# Node.js异步编程进化论
 
 我们知道，Node.js中有两种事件处理方式，分别是`callback`(回调)和`EventEmitter`(事件发射器)。本文首先介绍的是`callback`。
-
-<!--more-->
-
 
 ## Node.js异步编程callback
 

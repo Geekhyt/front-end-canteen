@@ -1,29 +1,6 @@
----
-title: "Node.js事件循环"
-date: 2019-11-29T16:22:42+08:00
-lastmod: 2019-08-25T16:22:42+08:00
-draft: false
-description: "Node.js事件循环"
-show_in_homepage: true
-show_description: false
-license: ''
-
-tags: ['Node.js']
-categories: ['前端']
-
-featured_image: ''
-featured_image_preview: ''
-
-comment: true
-toc: true
-autoCollapseToc: true
-math: true
----
+# Node.js事件循环
 
 从源码角度探求Node.js的事件循环本质。
-
-<!--more-->
-
 
 ## 事件循环
 

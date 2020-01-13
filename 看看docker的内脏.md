@@ -1,28 +1,8 @@
----
-title: "看看Docker的内脏"
-date: 2019-12-15T18:05:42+08:00
-lastmod: 2019-12-15T18:05:42+08:00
-draft: false
-description: "看看docker的内脏"
-show_in_homepage: true
-show_description: false
-license: ''
 
-tags: ['Docker']
-categories: ['前端']
-
-featured_image: ''
-featured_image_preview: ''
-
-comment: true
-toc: true
-autoCollapseToc: true
-math: true
----
+# 看看Docker的内脏
 
 有人把Docker比喻成运维人员的一把“瑞士军刀”，因为他们可以通过这把军刀实现终极梦想“一次创建，到处运行”。
 
-<!--more-->
 
 ## Docker
 

@@ -1,31 +1,9 @@
----
-title: "Vue2.x源码之生命周期"
-date: 2019-07-03T16:22:42+08:00
-lastmod: 2019-08-25T16:22:42+08:00
-draft: false
-description: "Vue2.x源码之生命周期."
-show_in_homepage: true
-show_description: false
-license: ''
-
-tags: ['Vue']
-categories: ['前端']
-
-featured_image: ''
-featured_image_preview: ''
-
-comment: true
-toc: true
-autoCollapseToc: true
-math: true
----
+# Vue2.x源码之生命周期
 
 在我们的实际项目中，与Vue的生命周期打交道可以说是家常便饭。掌握Vue的生命周期对开发者来说是特别重要的。那么如果能够从源码角度理解Vue的生命周期，对我们的开发和成长会有进一步的提升。
 
 本文从基础知识开始讲起，分为基础知识和源码解读两部分，对基础知识已经掌握的开发者可自行跳跃。
 
-
-<!--more-->
 
 ## 基础知识
 

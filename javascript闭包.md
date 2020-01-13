@@ -1,24 +1,5 @@
----
-title: "JavaScript闭包(讲给新来的女实习生)"
-date: 2019-08-15T16:22:42+08:00
-lastmod: 2019-08-25T16:22:42+08:00
-draft: false
-description: "JavaScript闭包"
-show_in_homepage: true
-show_description: false
-license: ''
+# JavaScript闭包(讲给新来的女实习生)
 
-tags: ['JavaScript']
-categories: ['前端']
-
-featured_image: ''
-featured_image_preview: ''
-
-comment: true
-toc: true
-autoCollapseToc: true
-math: true
----
 
 撩妹守则第一条，女孩子都喜欢童话故事。
 

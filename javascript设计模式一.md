@@ -1,29 +1,7 @@
----
-title: "JavaScript设计模式(一)"
-date: 2019-09-07T16:22:42+08:00
-lastmod: 2019-08-25T16:22:42+08:00
-draft: false
-description: "JavaScript设计模式"
-show_in_homepage: true
-show_description: false
-license: ''
+# JavaScript设计模式(一)
 
-tags: ['JavaScript']
-categories: ['前端']
-
-featured_image: ''
-featured_image_preview: ''
-
-comment: true
-toc: true
-autoCollapseToc: true
-math: true
----
 
 在开始阅读本文之前，大家可以先去看一下这个问题[前端未来几年的发展方向是什么？](https://www.zhihu.com/question/286700472/answer/464694260)
-
-
-<!--more-->
 
 
 有一个简单的大局观，造完了火箭，再回归正文，我们的日常生活和工作中的大部分还是需要脚踏实地搬砖的，为了应对不断变换的需求，为了不加班，掌握设计模式的思想可以大大提高我们的搬砖效率。

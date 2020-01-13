@@ -1,30 +1,7 @@
----
-title: "JavaScript原型链"
-date: 2019-07-20T16:22:42+08:00
-lastmod: 2019-08-25T16:22:42+08:00
-draft: false
-description: "JavaScript原型链"
-show_in_homepage: true
-show_description: false
-license: ''
+# JavaScript原型链
 
-tags: ['JavaScript']
-categories: ['前端']
-
-featured_image: ''
-featured_image_preview: ''
-
-comment: true
-toc: true
-autoCollapseToc: true
-math: true
----
 
 `Brendan Eich(布兰登·艾奇)` 作为`JavaScript`的作者曾说过 **“它是`C`语言和`Self`语言一夜情的产物。”**
-
-
-<!--more-->
-
 
 是因为它借鉴了`C`语言的基本语法和`Self`语言的使用基于原型`(prototype)`的继承机制。
 

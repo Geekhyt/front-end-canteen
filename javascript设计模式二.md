@@ -1,24 +1,5 @@
----
-title: "JavaScript设计模式(二)"
-date: 2019-10-09T16:22:42+08:00
-lastmod: 2019-08-25T16:22:42+08:00
-draft: false
-description: "JavaScript设计模式"
-show_in_homepage: true
-show_description: false
-license: ''
 
-tags: ['JavaScript']
-categories: ['前端']
-
-featured_image: ''
-featured_image_preview: ''
-
-comment: true
-toc: true
-autoCollapseToc: true
-math: true
----
+# JavaScript设计模式(二)
 
 
 有人问我坚持写博客的原因是什么？
@@ -26,9 +7,6 @@ math: true
 借用著名小说家`斯蒂芬·金`的一句话：“开始写吧！年轻人。”
 
 当你把`消费级兴趣`升级为`生产型兴趣`时，你才会渐渐发现以前没有窥见的门道和妙处。
-
-
-<!--more-->
 
 
 你品，你细品！

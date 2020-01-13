@@ -1,31 +1,10 @@
----
-title: "JavaScript设计模式(三)"
-date: 2019-10-18T16:22:42+08:00
-lastmod: 2019-08-25T16:22:42+08:00
-draft: false
-description: "JavaScript设计模式"
-show_in_homepage: true
-show_description: false
-license: ''
 
-tags: ['JavaScript']
-categories: ['前端']
+# JavaScript设计模式(三)
 
-featured_image: ''
-featured_image_preview: ''
-
-comment: true
-toc: true
-autoCollapseToc: true
-math: true
----
 
 想要成为一名优秀的软件开发人员，要具有强烈的工匠精神。遇到问题，想办法解决问题。大多数人在前期更多的依靠的是激情，中后期则需要一定的耐心。
 
 工作时间久了，自然对软件系统产生自己的思考，还会面临职业生涯的一个挑战。要不要成为一个技术负责人？
-
-
-<!--more-->
 
 
 技术负责人当然要从更大的角度来考虑问题，那么设计模式便是一门必修课，学习设计模式不仅能够在日常的业务代码中给我们提供解决问题的思路。在架构上的设计也无处不见设计模式的思想。

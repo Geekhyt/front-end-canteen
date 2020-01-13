@@ -1,29 +1,9 @@
----
-title: "浏览器中的JavaScript事件循环"
-date: 2019-07-06T16:22:42+08:00
-lastmod: 2019-08-25T16:22:42+08:00
-draft: false
-description: "浏览器中的JavaScript事件循环"
-show_in_homepage: true
-show_description: false
-license: ''
+# 浏览器中的JavaScript事件循环
 
-tags: ['JavaScript']
-categories: ['前端']
-
-featured_image: ''
-featured_image_preview: ''
-
-comment: true
-toc: true
-autoCollapseToc: true
-math: true
----
 每天都在写JavaScript的你，是否清楚JavaScript引擎的原理呢？
 
 想要了解JavaScript引擎，首先我们从它的运行机制`Event Loop`来说起。
 
-<!--more-->
 
 首先科普一些基础知识。
 <br/>
