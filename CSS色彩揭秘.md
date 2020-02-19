@@ -1,29 +1,7 @@
----
-title: "「进击的前端工程师」CSS色彩揭秘"
-date: 2020-02-07T13:07:42+08:00
-lastmod: 2020-02-07T13:07:42+08:00
-draft: false
-description: "CSS色彩揭秘"
-show_in_homepage: true
-show_description: false
-license: ''
 
-tags: ['CSS']
-categories: ['前端']
-
-featured_image: ''
-featured_image_preview: ''
-
-comment: true
-toc: true
-autoCollapseToc: true
-math: true
----
 
 每每提及色彩，我总会想起苏轼的`一年好景君须记，正是橙黄橘绿时`，白居易的`日出江花红胜火，春来江水绿如蓝`，朱熹的`等闲识得东风面，万紫千红总是春`。
 
-
-<!--more-->
 
 也许世界本无色彩。
 
