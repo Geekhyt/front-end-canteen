@@ -4,9 +4,9 @@
 
 (上段文字灵感来源于何帆《变量》)
 
-感谢Star
+感谢Star [![](https://img.shields.io/github/stars/Geekhyt/front-end-canteen?style=social)](#菜谱)
 
-[![](https://img.shields.io/github/stars/Geekhyt/front-end-canteen?style=social)](#菜谱)
+
 [![](https://img.shields.io/badge/WeChat-微信群-brightgreen)](#交流)
 [![](https://img.shields.io/badge/公众号-前端食堂-blueviolet)](#交流)
 [![](https://img.shields.io/badge/Jiujin-掘金-blue)](https://juejin.im/user/5a2de8a8f265da4320032fc4)
