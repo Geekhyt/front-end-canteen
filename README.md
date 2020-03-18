@@ -1,4 +1,4 @@
-# 食堂菜谱
+# 菜谱
 你的前端食堂，记得按时吃饭。
 
 [![](https://img.shields.io/badge/WeChat-微信群-brightgreen)](#交流)
@@ -11,7 +11,7 @@
 
 ## 菜品
 
-Tip：没有链接的计划发布中
+Tip：没有链接的正在计划发布中
 
 ### 面试专题
 - [再来一打Webpack面试题🔥(持续更新)](https://juejin.im/post/5e6f4b4e6fb9a07cd443d4a5)
