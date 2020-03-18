@@ -8,4 +8,5 @@
 [![](https://img.shields.io/badge/Zhihu-知乎-blue)](https://www.zhihu.com/people/huo-yi-tong-98)
 [![](https://img.shields.io/badge/bilili-哔哩哔哩-ff69b4)](https://space.bilibili.com/161753278)
 
+## 交流
 ![](https://github.com/Geekhyt/front-end-canteen/blob/master/images/qrcode.jpg)
