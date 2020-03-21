@@ -26,14 +26,26 @@ Tip：没有链接的正在计划发布中
 - React面试题整理
 - 前端工程师应该怎样准备简历
 
+### 基础通用技术
+- 计算机组成原理
+- 计算机操作系统原理
+- 计算机网络
+- 编译原理
+- 浏览器工作原理
+- Google V8引擎工作原理
+- Nginx原理及实战
+- Linux
+
 ### CSS
 - [CSS色彩揭秘](https://juejin.im/post/5e3cd5caf265da5735504108)
+- CSS布局揭秘
 
-### 原生JavaScript
+### JavaScript
 - [JavaScript中的this](https://juejin.im/post/5d15b72d5188255d7032ee2c)
 - [JavaScript闭包](https://juejin.im/post/5d54b91fe51d45620b21c3a0)
 - [JavaScript原型链](https://juejin.im/post/5d31ea79e51d457778117452)
 - [浏览器中JavaScript的事件循环](https://juejin.im/post/5d2036106fb9a07eb15d76e9)
+- JavaScript学习路线
 
 ### 网络协议
 - [HTTP的世界观(附HTTP/3中文翻译)](https://juejin.im/post/5dc6c7a8e51d45160d04a480)
@@ -43,9 +55,15 @@ Tip：没有链接的正在计划发布中
 
 ### 前端工程化
 - [五分钟带你回顾前端模块化发展史](https://juejin.im/post/5e5e4c47f265da57715bb974)
-- 如何搭建项目脚手架
-- 如何打造属于自己的Vue/React组件库
+- 搭建项目脚手架
+- 打造属于自己的Vue/React组件库
 - 持续集成
+- Git工作流
+
+### 性能优化
+- 静态资源优化
+- 服务端及网络层优化
+- 全链路监控体系搭建
 
 ### 源码系列
 - [从源码窥探Webpack4.x原理](https://juejin.im/post/5e1b2f77e51d454d5177a69d)
@@ -70,10 +88,24 @@ Tip：没有链接的正在计划发布中
 
 ### DevOps
 - [看看Docker的内脏](https://juejin.im/post/5df5f924f265da339f7cf366)
+- Kubernetes
+- 自动化部署
 
 ### 网络安全
-- XSS
-- CSRF
+- Web安全
+  - XSS
+  - CSRF
+  - SQL注入
+- Linux系统安全
+- Docker安全
+- 数据库安全
+
+### 数据库与消息队列
+- SQL基础及性能优化
+- MySQL基础及实战
+- MongoDB基础及实战
+- Redis基础及实战
+- Kafka与RocketMQ
 
 ### IDE
 - [老舅教你VS Code Disco](https://juejin.im/post/5e0a1ee1518825494d3289b7)
