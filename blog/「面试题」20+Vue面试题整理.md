@@ -1,24 +1,5 @@
----
-title: "Vue原理总结"
-date: 2020-03-08T11:48:42+08:00
-lastmod: 2020-03-08T11:48:42+08:00
-draft: false
-description: "Vue原理总结"
-show_in_homepage: true
-show_description: false
-license: ''
+# 「面试题」20+Vue面试题整理
 
-tags: ['Vue']
-categories: ['前端']
-
-featured_image: ''
-featured_image_preview: ''
-
-comment: true
-toc: true
-autoCollapseToc: true
-math: true
----
 
 从镜片的厚度和黄黑相见的格子衬衫我察觉到，面前坐着的这位面试官应该是来者不善。
 

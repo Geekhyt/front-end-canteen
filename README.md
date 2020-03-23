@@ -23,6 +23,7 @@ Tip：没有链接的正在计划发布中
 - [再来一打Webpack面试题🔥(持续更新)](https://juejin.im/post/5e6f4b4e6fb9a07cd443d4a5)
 - [20+Vue面试题整理🔥(持续更新)](https://juejin.im/post/5e649e3e5188252c06113021)
 - [面试心理学之面试前的思考](https://juejin.im/post/5e4a99506fb9a07ca714ae69)
+- [再来一打Web安全面试题](https://juejin.im/post/5e78d298f265da576a57a6bc)
 - React面试题整理
 - 前端工程师应该怎样准备简历
 
@@ -92,10 +93,7 @@ Tip：没有链接的正在计划发布中
 - 自动化部署
 
 ### 网络安全
-- Web安全
-  - XSS
-  - CSRF
-  - SQL注入
+- [再来一打Web安全面试题](https://juejin.im/post/5e78d298f265da576a57a6bc)
 - Linux系统安全
 - Docker安全
 - 数据库安全
