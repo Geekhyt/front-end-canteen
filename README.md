@@ -109,10 +109,14 @@ Tip：没有链接的正在计划发布中
 - [老舅教你VS Code Disco](https://juejin.im/post/5e0a1ee1518825494d3289b7)
 - [一份真香WebStorm快捷键](https://juejin.im/post/5d165bde6fb9a07ef06fa7e9)
 
+### 工具集分享
+- Mac工具集
+- [「颜值即正义」那些管UI小姐姐要来的网站](https://juejin.im/post/5e7cdee26fb9a03c6e640cc7)
+
 ### 读者福利
 - [前端食堂读者福利](https://mp.weixin.qq.com/s/cDoR8c4RI9U5dm_sQUJHCA)
 - 书单整理
-- Mac工具集
+
 
 ## 交流
 加我微信tongobama 备注「加群」即可
