@@ -50,9 +50,7 @@ Tip：没有链接的正在计划发布中
 
 ### 网络协议
 - [HTTP的世界观(附HTTP/3中文翻译)](https://juejin.im/post/5dc6c7a8e51d45160d04a480)
-- HTTPS
-- TCP
-- UDP
+- [那些年与面试官交手过的HTTP问题](https://juejin.im/post/5e91d85ce51d4546c82d9d99#heading-32)
 
 ### 前端工程化
 - [五分钟带你回顾前端模块化发展史](https://juejin.im/post/5e5e4c47f265da57715bb974)
