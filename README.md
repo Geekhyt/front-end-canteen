@@ -74,9 +74,9 @@ Tip：没有链接的正在计划发布中
 - [修炼内功之JavaScript设计模式（三）](https://juejin.im/post/5da6d3cc51882555704c8ff2)
 
 ### 数据结构与算法
-- 前端该怎么学数据结构与算法
+- [前端如何搞定数据结构与算法(先导篇)](https://juejin.im/post/5e9bb8c251882573820998ac)
 - LeetCode刷题心得
-- 算法在前端中的应用场景
+
 
 ### Node.js
 - [Node.js事件循环](https://juejin.im/post/5de095dd6fb9a071b5615db2)
