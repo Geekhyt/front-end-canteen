@@ -75,7 +75,7 @@ Tip：没有链接的正在计划发布中
 
 ### 数据结构与算法
 - [前端如何搞定数据结构与算法(先导篇)](https://juejin.im/post/5e9bb8c251882573820998ac)
-- [「时间管理」JavaScript算法时间、空间复杂度分析](https://juejin.im/post/5ea979085188256d6f267940)
+- [JavaScript算法时间、空间复杂度分析](https://juejin.im/post/5ea979085188256d6f267940)
 - LeetCode刷题心得
 - 常见算法解题套路
 
