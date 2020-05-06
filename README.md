@@ -58,6 +58,7 @@ Tip：没有链接的正在计划发布中
 - 打造属于自己的Vue/React组件库
 - 持续集成
 - Git工作流
+- [60+常用Git命令行](https://juejin.im/post/5eb2d6bce51d454d9d3ed14f)
 
 ### 性能优化
 - 静态资源优化
