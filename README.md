@@ -4,7 +4,7 @@
 
 (上段文字灵感来源于何帆《变量》)
 
-感谢Star [![](https://img.shields.io/github/stars/Geekhyt/front-end-canteen?style=social)](#菜谱)
+感谢Star🌟
 
 
 [![](https://img.shields.io/badge/WeChat-微信群-brightgreen)](#交流)
