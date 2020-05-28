@@ -106,6 +106,9 @@ Tip：没有链接的正在计划发布中
 - Redis基础及实战
 - Kafka与RocketMQ
 
+### 中文翻译
+- [Vue3的诞生之路](https://juejin.im/post/5ecff3b2f265da76e3277b3a)
+
 ### IDE
 - [老舅教你VS Code Disco](https://juejin.im/post/5e0a1ee1518825494d3289b7)
 - [一份真香WebStorm快捷键](https://juejin.im/post/5d165bde6fb9a07ef06fa7e9)
