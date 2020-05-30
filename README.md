@@ -109,6 +109,9 @@ Tip：没有链接的正在计划发布中
 ### 中文翻译
 - [Vue3的诞生之路](https://juejin.im/post/5ecff3b2f265da76e3277b3a)
 
+### 杂谈
+- [认真聊聊写博客这件事](https://juejin.im/post/5ed24e02f265da76b828be18#heading-5)
+
 ### IDE
 - [老舅教你VS Code Disco](https://juejin.im/post/5e0a1ee1518825494d3289b7)
 - [一份真香WebStorm快捷键](https://juejin.im/post/5d165bde6fb9a07ef06fa7e9)
