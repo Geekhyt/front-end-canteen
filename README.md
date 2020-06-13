@@ -78,8 +78,9 @@ Tip：没有链接的正在计划发布中
 - [前端如何搞定数据结构与算法(先导篇)](https://juejin.im/post/5e9bb8c251882573820998ac)
 - [JavaScript算法时间、空间复杂度分析](https://juejin.im/post/5ea979085188256d6f267940)
 - [你真的懂递归吗？](https://juejin.im/post/5ec225e26fb9a043761ce4d8)
+- [分治、动态规划、回溯、贪心一锅炖](https://juejin.im/post/5ee4f5bfe51d457b3f4a1fc0#heading-22)
 - LeetCode刷题心得
-- 常见算法解题套路
+
 
 ### Node.js
 - [Node.js事件循环](https://juejin.im/post/5de095dd6fb9a071b5615db2)
