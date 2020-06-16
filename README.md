@@ -127,5 +127,5 @@ Tip：没有链接的正在计划发布中
 
 
 ## 交流
-加我微信tongobama 备注「加群」即可
+加我微信: hungryturbo 备注「加群」即可
 ![](https://github.com/Geekhyt/front-end-canteen/blob/master/images/qrcode.jpg)
