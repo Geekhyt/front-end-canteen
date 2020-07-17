@@ -84,6 +84,9 @@ Tip：没有链接的正在计划发布中
 - [面试链表不再怕](https://juejin.im/post/5f09ede5f265da22eb2a6dcf)
 - LeetCode刷题心得
 
+### 提升效率
+- [精选10款谷歌浏览器插件武装你的浏览器](https://juejin.im/post/5f116f996fb9a07e654fafa7)
+
 
 ### Node.js
 - [Node.js事件循环](https://juejin.im/post/5de095dd6fb9a071b5615db2)
