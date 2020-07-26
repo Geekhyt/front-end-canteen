@@ -86,6 +86,7 @@ Tip：没有链接的正在计划发布中
 
 ### 提升效率
 - [精选10款谷歌浏览器插件武装你的浏览器](https://juejin.im/post/5f116f996fb9a07e654fafa7)
+- [精选MAC应用推荐，让你搬砖效率翻倍](https://juejin.im/post/5f1da863f265da22e56e21e1#heading-9)
 
 
 ### Node.js
