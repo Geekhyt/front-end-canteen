@@ -46,6 +46,7 @@ Tip：没有链接的正在计划发布中
 - [JavaScript闭包](https://juejin.im/post/5d54b91fe51d45620b21c3a0)
 - [JavaScript原型链](https://juejin.im/post/5d31ea79e51d457778117452)
 - [浏览器中JavaScript的事件循环](https://juejin.im/post/5d2036106fb9a07eb15d76e9)
+- [这些手写代码会了吗？少年](https://juejin.im/post/6856419501777846279)
 - JavaScript学习路线
 
 ### 网络协议
