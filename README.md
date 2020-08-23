@@ -34,7 +34,7 @@ Tip：没有链接的正在计划发布中
 - 编译原理
 - 浏览器工作原理
 - Google V8引擎工作原理
-- Nginx原理及实战
+- [前端工程师不可不知的Nginx知识](https://juejin.im/post/6864085814571335694/)
 - Linux
 
 ### CSS
