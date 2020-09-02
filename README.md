@@ -4,6 +4,8 @@
 
 (上段文字灵感来源于何帆《变量》)
 
+ps: 2020.9.2 日新增更新计划：每个月 8 号、18 号、28 号更新原创文章(上菜)。
+
 感谢Star🌟
 
 
@@ -134,9 +136,10 @@ Tip：没有链接的正在计划发布中
 
 ### 读者福利
 - [前端食堂读者福利](https://mp.weixin.qq.com/s/cDoR8c4RI9U5dm_sQUJHCA)
-- 书单整理
+- 每月送书福利
 
 
 ## 交流
-加我微信: hungryturbo 备注「加群」即可
+加我微信: hungryturbo 备注「加群」即可，进群的同学们可以享受免费点菜权利～
+
 ![](https://github.com/Geekhyt/front-end-canteen/blob/master/images/qrcode.jpg)
