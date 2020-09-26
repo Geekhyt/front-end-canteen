@@ -78,6 +78,10 @@ Tip：没有链接的正在计划发布中
 - 服务端及网络层优化
 - 全链路监控体系搭建
 
+### Vue 探秘之旅
+
+- [海贼王 One Piece，一起康康 Vue 版本号中的彩蛋](https://juejin.im/post/6876628905923444749)
+
 ### 源码系列
 
 - [React 技术揭秘](https://github.com/BetaSu/just-react)
