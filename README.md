@@ -81,6 +81,7 @@ Tip：没有链接的正在计划发布中
 ### Vue 探秘之旅
 
 - [海贼王 One Piece，一起康康 Vue 版本号中的彩蛋](https://juejin.im/post/6876628905923444749)
+- [Vue3 DOM Diff 核心算法解析](https://juejin.im/post/6877814455968350215)
 
 ### 源码系列
 
