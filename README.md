@@ -52,6 +52,7 @@ Tip：没有链接的正在计划发布中
 - [JavaScript 原型链](https://juejin.im/post/5d31ea79e51d457778117452)
 - [浏览器中 JavaScript 的事件循环](https://juejin.im/post/5d2036106fb9a07eb15d76e9)
 - [这些手写代码会了吗？少年](https://juejin.im/post/6856419501777846279)
+- [种草ECMAScript2021新特性](https://juejin.cn/post/6898979293024485383)
 - JavaScript 学习路线
 
 ### 网络协议
