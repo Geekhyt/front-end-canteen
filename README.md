@@ -111,6 +111,7 @@ Tip：没有链接的正在计划发布中
 - [从酒桌游戏看二分查找算法](https://juejin.im/post/5f0499c76fb9a07e976bdbc2)
 - [面试链表不再怕](https://juejin.im/post/5f09ede5f265da22eb2a6dcf)
 - [食堂店小二儿教你学会栈](https://juejin.im/post/6869785753958907912)
+- [前端玩转位运算(N皇后+Vue3位运算应用)](https://juejin.cn/post/6904595258915422215/)
 - LeetCode 刷题心得
 
 ### 提升效率
