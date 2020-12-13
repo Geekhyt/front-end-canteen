@@ -167,6 +167,10 @@ Tip：没有链接的正在计划发布中
 - Mac 工具集
 - [「颜值即正义」那些管 UI 小姐姐要来的网站](https://juejin.im/post/5e7cdee26fb9a03c6e640cc7)
 
+### 年终总结
+
+- [2020你远道而来这世间，想必也是因为热爱吧](https://juejin.cn/post/6905737176776966152)
+
 ### 读者福利
 
 - [前端食堂读者福利](https://mp.weixin.qq.com/s/cDoR8c4RI9U5dm_sQUJHCA)
