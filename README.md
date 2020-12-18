@@ -53,6 +53,7 @@ Tip：没有链接的正在计划发布中
 - [浏览器中 JavaScript 的事件循环](https://juejin.im/post/5d2036106fb9a07eb15d76e9)
 - [这些手写代码会了吗？少年](https://juejin.im/post/6856419501777846279)
 - [种草ECMAScript2021新特性](https://juejin.cn/post/6898979293024485383)
+- [手写Promise全家桶+Generator+async/await](https://juejin.cn/post/6907673648216145928/)
 - JavaScript 学习路线
 
 ### 网络协议
