@@ -55,6 +55,7 @@ Tip：没有链接的正在计划发布中
 - [种草ECMAScript2021新特性](https://juejin.cn/post/6898979293024485383)
 - [手写Promise全家桶+Generator+async/await](https://juejin.cn/post/6907673648216145928/)
 - [「笔记整理」第15届D2前端技术论坛: 揭秘TC39: ES2020 和 ES2021](https://juejin.cn/post/6908329539525410830)
+- [2021年前端工程师书单推荐](https://mp.weixin.qq.com/s/ONRri-rG4W0iE8Hp6IFrXA)
 - JavaScript 学习路线
 
 ### 网络协议
