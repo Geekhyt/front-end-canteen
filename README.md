@@ -183,4 +183,4 @@ Tip：没有链接的正在计划发布中
 
 加我微信: hungryturbo 备注「加群」即可，进群的同学们可以享受免费点菜权利～
 
-![](https://github.com/Geekhyt/front-end-canteen/blob/master/images/qrcode.jpg)
+![](https://github.com/Geekhyt/front-end-canteen/blob/master/images/new-qrcode.jpg)
