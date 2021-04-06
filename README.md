@@ -165,6 +165,7 @@ Tip：没有链接的正在计划发布中
 ### 杂谈
 
 - [认真聊聊写博客这件事](https://juejin.im/post/5ed24e02f265da76b828be18#heading-5)
+- [眼里要有光！分享一些我收藏夹里的链接](https://juejin.cn/post/6947894860284166151)
 
 ### IDE
 
