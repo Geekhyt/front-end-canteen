@@ -94,6 +94,7 @@ Tip：没有链接的正在计划发布中
 
 - [海贼王 One Piece，一起康康 Vue 版本号中的彩蛋](https://juejin.im/post/6876628905923444749)
 - [Vue3 DOM Diff 核心算法解析](https://juejin.im/post/6877814455968350215)
+- [VueConf China 2021 《Vue3生态进展-尤雨溪》 Reaction](https://juejin.cn/post/6965321244828762126)
 
 ### 源码系列
 
