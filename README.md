@@ -26,7 +26,7 @@ Tip：没有链接的正在计划发布中
 - [面试心理学之面试前的思考](https://juejin.im/post/5e4a99506fb9a07ca714ae69)
 - [再来一打 Web 安全面试题](https://juejin.im/post/5e78d298f265da576a57a6bc)
 - [React 面试题整理](https://github.com/semlinker/reactjs-interview-questions)
-- 前端工程师应该怎样准备简历
+- [坐下来谈谈如何写好一份简历？](https://juejin.cn/post/6990518974131732488)
 
 ### 基础通用技术
 
