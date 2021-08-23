@@ -42,6 +42,7 @@ Tip：没有链接的正在计划发布中
 ### CSS
 
 - [CSS 色彩揭秘](https://juejin.im/post/5e3cd5caf265da5735504108)
+- [玩游戏学 CSS，哎，我就是玩儿！](https://juejin.cn/post/6999481454761607176/)
 - CSS 布局揭秘
 
 ### JavaScript
