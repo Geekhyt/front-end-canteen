@@ -15,6 +15,11 @@ ps: 2020.9.2 日新增更新计划：每个月 8 号、18 号、28 号更新原�
 [![](https://img.shields.io/badge/Zhihu-知乎-blue)](https://www.zhihu.com/people/huo-yi-tong-98)
 [![](https://img.shields.io/badge/bilili-哔哩哔哩-ff69b4)](https://space.bilibili.com/161753278)
 
+
+## 周刊
+
+- [前端食堂技术周刊](https://github.com/Geekhyt/weekly)
+
 ## 菜品
 
 Tip：没有链接的正在计划发布中
